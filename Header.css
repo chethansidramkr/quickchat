@@ -1,6 +1,13 @@
-.header {
-  background: linear-gradient(135deg, #667eea, #764ba2);
+.cart-icon {
+  cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.badge {
+  background: red;
   color: white;
-  padding: 30px;
-  text-align: center;
+  padding: 2px 8px;
+  border-radius: 50%;
 }
